@@ -1,16 +1,21 @@
+# Welcome to my Profile!
 
-# Mustafa Aman - Software Engineering and AI Enthusiast
+### Mustafa Aman  
+**Aspiring Software Engineer & AI Enthusiast**
 
-## About Me
+A junior born in 2013, I'm passionate about Software Engineering and Artificial Intelligence. I love solving math problems through coding, with a special focus on Python and C++. Currently, I'm working on expanding my knowledge in AI by taking relevant courses.
 
-Hello! I'm Mustafa Aman, a passionate learner with a deep interest in Software Engineering and Artificial Intelligence. I was born in 2013, and even though I'm still in my junior years, I am eager to dive deep into the world of technology.
+## Technologies I Love 🚀
 
-## My Interests
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-* **Mathematics & Coding:** I love solving math problems that are related to coding. The process of turning complex problems into solutions through code is something I truly enjoy.
-* **Programming Languages:** I have a strong passion for Python and C++. These languages are not just tools for me—they are windows into exploring the exciting world of programming.
-* **Artificial Intelligence:** Currently, I'm taking courses to expand my knowledge in AI, which is an area I'm deeply interested in. I hope to learn how to develop intelligent systems and solutions that can change the world.
+## Education 🎓
 
-## Education & Learning
+- Junior (Born in 2013)
+- Currently taking courses in **AI** and **Software Engineering**
+- Focused on **Python** and **C++** for programming
 
-Though I am still a junior, I am always looking for opportunities to learn more and improve my skills. I am currently pursuing various courses related to AI and Software Engineering to build a solid foundation for my future career.
+---
+
+Feel free to reach out if you're interested in collaborating on beginner-friendly projects or exchanging ideas!
