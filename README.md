@@ -9,14 +9,14 @@
 
 <!-- 2) SUB-HEADING IN GREY -->
 <h3 align="center" style="color:#808080;">
-  🚀 Aspiring Software Developer | AI Enthusiast
+     Aspiring Software Developer | AI Enthusiast
 </h3>
 
 I’m **Mustafa Aman**, a young learner passionate about **Python**, **C++**, and the world of **Artificial Intelligence**.  
 I love exploring new technologies, solving problems, and building projects that sharpen my skills.  
 
 
-## 🛠️ Technologies I Love ❤️
+## 🛠️ Technologies I Love 🚀
 
 <p align="center">
   <!-- Languages -->
