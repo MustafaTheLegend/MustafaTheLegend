@@ -1,8 +1,18 @@
 
+
+1. **Ensure the file is saved with a `.md` extension**: For Markdown files, it should be a `.md` file like `README.md`.
+
+2. **No raw code display**: Sometimes, GitHub or other platforms will display HTML or Markdown code as raw text if it's not properly formatted or if there's an issue in the way the file is uploaded.
+
+3. **Test locally**: You can use a Markdown preview tool or a local GitHub repository to check how the README will render before pushing it online.
+
+4. **Avoid escaping HTML tags**: Ensure that you aren't escaping the `<` and `>` tags in the HTML elements.
+
+Here is a fixed version of the code that should render correctly on platforms like GitHub:
+
 ```html
 <!-- 1) BIG HEADING WITH BLUE THEME -->
 <h1 align="center">
-  <!-- Multiple lines in typing animation; separate them with semicolons (;) -->
   <img 
     src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I%27m+Mustafa+Aman;An+Aspiring+Software+Engineer+&+AI+Enthusiast;Welcome+to+my+Profile!&font=Montserrat&weight=700&size=40&color=FFFFFF&duration=2000&pause=1000&center=true&vCenter=true&width=900&height=120" 
     alt="Typing SVG" 
