@@ -27,16 +27,6 @@ I love exploring new technologies, solving problems, and building projects that 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  
-  <!-- AI/ML -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/TensorFlow_logo.svg" alt="TensorFlow" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
-</p>
-
----
 
 ## 📖 Education  
 📌 Currently a student, developing programming and problem-solving skills.  
