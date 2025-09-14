@@ -32,7 +32,6 @@ I love exploring new technologies, solving problems, and building projects that 
 📌 Currently a student, developing programming and problem-solving skills.  
 📌 Preparing myself for a strong future in **software development** and **AI research**.  
 
----
 
 ## 🤝 Let’s Connect  
 💡 Open to collaborating, exchanging ideas, and learning with others!  
