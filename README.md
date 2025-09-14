@@ -1,3 +1,21 @@
+Sure! Here's the modified version of your content with the heading and subheading added as per your request:
+
+```html
+<!-- 1) BIG HEADING WITH BLUE THEME -->
+<h1 align="center">
+  <!-- Multiple lines in typing animation; separate them with semicolons (;) -->
+  <img 
+    src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I%27m+Mustafa+Aman;An+Aspiring+Software+Engineer+&+AI+Enthusiast;Welcome+to+my+Profile!&font=Montserrat&weight=700&size=40&color=FFFFFF&duration=2000&pause=1000&center=true&vCenter=true&width=900&height=120" 
+    alt="Typing SVG" 
+  />
+</h1>
+
+<!-- 2) SUB-HEADING IN BLUE -->
+<h3 align="center" style="color:#2196F3;">
+  Aspiring Software Developer
+</h3>
+<br/>
+
 # Welcome to my Profile!
 
 ### Mustafa Aman  
@@ -19,3 +37,5 @@ A junior born in 2013, I'm passionate about Software Engineering and Artificial 
 ---
 
 Feel free to reach out if you're interested in collaborating on beginner-friendly projects or exchanging ideas!
+```
+
