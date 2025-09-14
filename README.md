@@ -8,7 +8,7 @@
 </h1>
 
 <!-- 2) SUB-HEADING IN BLUE -->
-<h3 align="center" style="color:#2196F3;">
+<h3 align="center" style="color:#A9A9A9;">
   🚀 Aspiring Software Developer | AI Enthusiast
 </h3>
 <br/>
