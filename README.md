@@ -1,4 +1,3 @@
-Sure! Here's the modified version of your content with the heading and subheading added as per your request:
 
 ```html
 <!-- 1) BIG HEADING WITH BLUE THEME -->
