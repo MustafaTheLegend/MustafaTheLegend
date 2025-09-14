@@ -15,7 +15,6 @@
 I’m **Mustafa Aman**, a young learner passionate about **Python**, **C++**, and the world of **Artificial Intelligence**.  
 I love exploring new technologies, solving problems, and building projects that sharpen my skills.  
 
----
 
 ## 🎯 Current Focus  
 - 🔹 Strengthening foundations in **Python** and **C++**  
