@@ -34,7 +34,7 @@ I love exploring new technologies, solving problems, and building projects that 
 ## 🤝 Let’s Connect  
 💡 Open to collaborating, exchanging ideas, and learning with others!  
 
-📧 **Email:** your-email-here  
+📧 **Email:** mustafaaman0200@gmail.com  
 🌐 **Portfolio/Website:** (in progress)  
 
 ---
